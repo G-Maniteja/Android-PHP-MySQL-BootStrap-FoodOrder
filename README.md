@@ -11,4 +11,4 @@ There are two parts in this project.
 2.	Admin Related Modules
 An Android Application is developed for customers and a Web Page is developed for Admin. For the app to be connected to the online database (MySQL), i used PHP files (See customer folder in PHP/foodorder folder).
 
-In this project i had used the data mining techniques like Association Rules Mining using apriori Algorithm.
+In this project i had used the data mining techniques like Association Rule Mining using apriori Algorithm for suggesting the related items to the customer.
