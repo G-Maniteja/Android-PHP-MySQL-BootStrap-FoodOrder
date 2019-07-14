@@ -2,10 +2,12 @@
 
 Online food ordering is the process of food delivery or takeout from a local restaurant or food cooperative through a web page or app. Much like ordering consumer goods online, many of these services allow customers to keep accounts with them in order to make frequent ordering convenient. A customer will search for a favourite food items in the restaurant, then he places an Order.
 
+The languages and technologies i had used for developing this project are Android in Android Studio,PHP,Bootstrap,MySQL.
+
 There are two parts in this project.
 1.	Customer Related Modules
 2.	Admin Related Modules
-An Android Application is developed for customers and a Web Page is developed for Admin.
+An Android Application is developed for customers and a Web Page is developed for Admin. For the app to be connected to the online database (MySQL), i used PHP files (See Customer related files in PHP folder).
 
 In this project i had used the data mining techniques like Association Rules Mining using apriori Algorithm.
 
