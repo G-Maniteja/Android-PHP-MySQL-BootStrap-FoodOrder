@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorWhite">#79FFFFFF</color>
+    <color name="colorGrapeFruit">#ED5565</color>
+    <color name="colorGrapeFruitDark">#DA4453</color>
+    <color name="colorBitterSweet">#fc6e51</color>
+    <color name="colorBitterSweetDark">#e9573f</color>
+    <color name="colorFlower">#8afcc12f</color>
+    <color name="colorFlowerDark">#F68B42</color>
+    <color name="colorGrass">#A0D468</color>
+    <color name="colorGrassDark">#8CC152</color>
+    <color name="colorBlueJeans">#509CEC</color>
+    <color name="colorBlueJeansDark">#4A89DC</color>
+    <color name="colorLavander">#AC92EC</color>
+    <color name="colorLavanderDark">#967ADC</color>
+    <color name="colorMint">#48CFAD</color>
+    <color name="colorMintDark">#37BC9B</color>
+    <color name="colorAqua">#4fc1e9</color>
+    <color name="colorAquaDark">#3BAFDA</color>
+    <color name="colorPinkRose">#EC87C0</color>
+    <color name="colorPinkRoseDark">#D770AD</color>
+</resources>

@@ -1,0 +1,3 @@
+Palak Paneer=Roti (Two Pieces)
+Roti (Two Pieces)=Palak Paneer
+Malasa Panner=Onion Dosa

@@ -1,0 +1,17 @@
+Roti (Single Piece),Roti (Two Pieces)
+Idly Sambar,Roti (Single Piece),Idly Sambar
+Roti (Two Pieces),Palak Paneer,Masala Dosa,Vada Sambar
+Onion Dosa
+Masala Dosa,Idly Sambar
+Idly Sambar,Masala Dosa,Vada Sambar,Masala Dosa,Vada Sambar,Onion Dosa,Idly Sambar
+Roti (Two Pieces),Palak Paneer
+Roti (Two Pieces),Palak Paneer
+Roti (Two Pieces),Palak Paneer
+Palak Paneer,Roti (Two Pieces)
+Palak Paneer,Roti (Two Pieces)
+Palak Paneer
+Palak Paneer
+Idly Sambar,Roti (Two Pieces),Pa
+Idly Sambar,Masala Dosa,
+Malasa Panner,Onion Dosa
+Malasa Panner,Onion Dosa
